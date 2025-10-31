@@ -9,7 +9,7 @@ management with the Kubernetes CLI, `kubectl`.
 > ⚠️ Commands in the lessons should be run in a Linux/WSL/Mac OS terminal, or
 > a Windows equivalent (Command Prompt or Power shell)
 >
-> You can set an alias for `kubectl` by adding it to your `~/.bash_aliases` or `~/.zshrc`
+> If your install doesn't recognise `kubectl` you can set an alias by adding it to your `~/.bash_aliases` or `~/.zshrc`
 >
 >     alias kubectl="minikube kubectl --"
 
